@@ -1,0 +1,19 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables (CRITICAL: Do not upload API keys!)
+.env
+
+# ChromaDB Vector Database 
+my_ai_memory_local/
+
+# Temporary Audio/Video Files
+temp_speech.mp3
+temp_user_query.wav
+test_frame.jpg
+
+# OS generated files
+.DS_Store
+Thumbs.db
