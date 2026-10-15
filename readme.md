@@ -1,6 +1,6 @@
-# Multimodal Mechatronics Edge Assistant
+# Multimodal AI Assistant
 
-Multimodal Mechatronics Assistant: A hybrid Edge-AI RAG pipeline running EmbeddingGemma 2 on local RTX 3060 VRAM with ChromaDB. Features live camera perception, push-to-talk voice I/O, and Gemini reasoning wrapped in a dynamic Streamlit dashboard for grounded engineering doc QA.
+Multimodal AI Assistant: A hybrid Edge-AI RAG pipeline running EmbeddingGemma2 on local GPU with ChromaDB. Features live camera perception, push-to-talk voice I/O, and Gemini reasoning wrapped in a dynamic Streamlit dashboard for grounded engineering doc QA.
 
 ## 🚀 Key Features
 
